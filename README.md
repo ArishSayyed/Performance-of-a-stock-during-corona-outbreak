@@ -1,4 +1,6 @@
 # Performance-of-a-stock-during-corona-outbreak
+main file: Performance-of-a-stock-during-corona-outbreak.ipynb
+
 In this notebook, I have tried to make a program to find out how a stock is performing during the corona outbreak
 
 Colab link to run the file: https://colab.research.google.com/drive/1Uy7GMXOpVi_6xvYjFIgasMCeXd8zxsaD
